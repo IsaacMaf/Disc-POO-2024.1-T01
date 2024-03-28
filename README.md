@@ -10,6 +10,12 @@
 ### QR03: Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 ### QR04: Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 ### QR05: Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+### QR06: Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, 
+### sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
+### QR07: Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, 
+### sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+### QR08: Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o
+### valor do rendimento e o valor total depois do rendimento.
 ### QR21: Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a
 ### que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em
 ## que deseja pregar o quadro.Lembre-se de que o tamanho da escada deve ser maior que a altura que se deseja alcançar.
