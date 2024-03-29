@@ -5,6 +5,24 @@
 ### Data que o trabalho começou a ser mandado no GitHub: 22 de março de 2024.
 ### livro fundamentos da PROGRAMAÇÃO de COMPUTAÇÕES(Ana Fernanda Gomes Ascencio Edilene Aparecida Veneruchi de Campos)
 #
+### QP02: Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+### QP06: Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa
+### que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu
+### salário final.
+### QP07: Faça um programa que receba o peso de uma pessoa, calcule e mostre:
+### a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;
+### b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+### QP17: Faça um programa que receba o raio, calcule e mostre:
+### a) o comprimento de uma esfera; sabe-se que C = 2 * p R;
+### b) a área de uma esfera; sabe-se que A = p R2;
+### c) o volume de uma esfera; sabe-se que V = 3⁄4 * p R3.
+### QP21: Faça um programa que receba o número de horas trabalhadas, o valor do salário mínimo e o número
+### de horas extras trabalhadas, calcule e mostre o salário a receber, de acordo com as regras a seguir:
+### a) a hora trabalhada vale 1/8 do salário mínimo;
+### b) a hora extra vale 1/4 do salário mínimo;
+### QP22: Faça um programa que receba o número de lados de um polígono convexo, calcule e mostre o número
+### de diagonais desse polígono. Sabe-se que ND = N * (N − 3)/2, em que N é o número de lados do
+### polígono.
 ### QR01: Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
 ### QR02: Faça um programa que receba três notas, calcule e mostre a média aritmética.
 ### QR03: Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
