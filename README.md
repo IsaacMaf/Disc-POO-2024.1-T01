@@ -14,6 +14,9 @@
 ### QP07: Faça um programa que receba o peso de uma pessoa, calcule e mostre:
 ### a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;
 ### b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+### QP11: Faça um programa que calcule e mostre a área de um losango
+### QP12: Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule
+### e mostre a quantidade de salários mínimos que esse funcionário ganha.
 ### QP17: Faça um programa que receba o raio, calcule e mostre:
 ### a) o comprimento de uma esfera; sabe-se que C = 2 * p R;
 ### b) a área de uma esfera; sabe-se que A = p R2;
