@@ -6,6 +6,8 @@
 ### livro fundamentos da PROGRAMAÇÃO de COMPUTAÇÕES(Ana Fernanda Gomes Ascencio Edilene Aparecida Veneruchi de Campos)
 #
 ### QP02: Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+### QR04: Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, consi-
+### derando peso 2 para a primeira e peso 3 para a segunda.
 ### QP06: Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa
 ### que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu
 ### salário final.
@@ -16,6 +18,9 @@
 ### a) o comprimento de uma esfera; sabe-se que C = 2 * p R;
 ### b) a área de uma esfera; sabe-se que A = p R2;
 ### c) o volume de uma esfera; sabe-se que V = 3⁄4 * p R3.
+### QR19: Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 W
+### de potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostre
+### a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
 ### QP21: Faça um programa que receba o número de horas trabalhadas, o valor do salário mínimo e o número
 ### de horas extras trabalhadas, calcule e mostre o salário a receber, de acordo com as regras a seguir:
 ### a) a hora trabalhada vale 1/8 do salário mínimo;
